@@ -27,7 +27,7 @@ header {
   position: absolute;
 }
 
-.itemList li {
+.menu .itemList li {
   display: block;
 }
 
